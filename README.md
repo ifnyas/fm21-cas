@@ -5,6 +5,6 @@ This is the prototype of the FM21 CA Scanner. Just point your camera to the in-g
 
 Preview https://youtu.be/vRTgJSIsJqo
 
-Read more https://ifnyas.medium.com/how-i-try-to-crack-the-cracked-ca-calculator-in-fm21-and-made-an-app-for-it-f80800710cd3
+Read more https://ifnyas.medium.com/how-i-try-to-crack-the-cracked-ca-calculator-in-fm21-and-made-an-app-for-it-5a7122a7eddd
 
 Download https://play.google.com/store/apps/details?id=app.ifnyas.fmscanner
